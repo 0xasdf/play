@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("playtime-v0.0.1")
+	fmt.Println("playstuff-v0.0.1")
 }
