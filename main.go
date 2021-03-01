@@ -5,7 +5,8 @@ import (
 )
 
 func main() {
-	fmt.Println("playstuff-v0.1.0")
+	fmt.Println("playstuff-v0.0.3")
+	fmt.Println("meowstuff")
 
-	fmt.Println("smeow")
+	fmt.Println("asdf")
 }
